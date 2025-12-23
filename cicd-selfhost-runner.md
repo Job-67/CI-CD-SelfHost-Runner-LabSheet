@@ -1251,3 +1251,9 @@ Reverse Proxy คือการให้ Nginx รับหน้าเสื�
 - [npm ci Documentation](https://docs.npmjs.com/cli/v10/commands/npm-ci)
 - [Docker Multi-stage Builds](https://docs.docker.com/build/building/multi-stage/)
 - [Nginx Reverse Proxy Guide](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/)
+
+---
+
+Repository private
+https://github.com/Job-67/nodejs-cicd-selfhosted
+
